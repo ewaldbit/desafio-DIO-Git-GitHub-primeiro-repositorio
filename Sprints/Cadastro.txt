@@ -1,0 +1,11 @@
+Informações necessárias dos candidatos para a inscrição do concurso:
+
+- Nome Completo
+- RG
+- CPF
+- Endereço
+- Telefone
+- Escolaridade
+- Cargo escolhido
+- Whatsapp
+- E-mail
